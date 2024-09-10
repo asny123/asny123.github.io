@@ -75,15 +75,21 @@
     <link href="http://example.com/2024/07/02/%E7%BE%A4%E6%8E%A8%E8%8D%90/"/>
     <id>http://example.com/2024/07/02/%E7%BE%A4%E6%8E%A8%E8%8D%90/</id>
     <published>2024-07-02T10:38:47.000Z</published>
-    <updated>2024-09-09T17:22:19.743Z</updated>
+    <updated>2024-09-10T06:57:08.811Z</updated>
     
-    <content type="html"><![CDATA[<ul><li>平台聚集地：<a href="https://pt9.app/mamahuhu">https://pt9.app/mamahuhu</a>   飞机群：<a href="https://t.me/mahumahu">https://t.me/mahumahu</a></li><li>豪猪：<a href="https://pt9.app/haozhuma">https://pt9.app/haozhuma</a></li><li>他信：<a href="https://pt9.app/taxinyun">https://pt9.app/taxinyun</a></li><li>椰子：<a href="https://ptd6.app/yeziyun22">https://ptd6.app/yeziyun22</a></li><li>四方：<a href="https://pt9.app/sifangsms">https://pt9.app/sifangsms</a></li></ul>]]></content>
+    <content type="html"><![CDATA[<table><thead><tr><th align="center">日期</th><th align="center">联系方式</th><th align="center">土豆群地址</th><th align="center">飞机群地址</th></tr></thead><tbody><tr><td align="center">2022-03-01</td><td align="center">平台聚集地</td><td align="center"><a href="https://pt9.app/mamahuhu">https://pt9.app/mamahuhu</a></td><td align="center"><a href="https://t.me/mahumahu">https://t.me/mahumahu</a></td></tr><tr><td align="center">2022-03-01</td><td align="center">豪猪平台</td><td align="center"><a href="https://pt9.app/haozhuma">https://pt9.app/haozhuma</a></td><td align="center"></td></tr><tr><td align="center">2022-03-01</td><td align="center">他信平台</td><td align="center"><a href="https://pt9.app/taxinyun">https://pt9.app/taxinyun</a></td><td align="center"></td></tr><tr><td align="center">2022-03-01</td><td align="center">四方软件</td><td align="center"><a href="https://pt9.app/sifangsms">https://pt9.app/sifangsms</a></td><td align="center"></td></tr></tbody></table>]]></content>
     
     
       
       
-    <summary type="html">&lt;ul&gt;
-&lt;li&gt;平台聚集地：&lt;a href=&quot;https://pt9.app/mamahuhu&quot;&gt;https://pt9.app/mamahuhu&lt;/a&gt;   飞机群：&lt;a href=&quot;https://t.me/mahumahu&quot;&gt;https://t.me/mahumahu&lt;/</summary>
+    <summary type="html">&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align=&quot;center&quot;&gt;日期&lt;/th&gt;
+&lt;th align=&quot;center&quot;&gt;联系方式&lt;/th&gt;
+&lt;th align=&quot;center&quot;&gt;土豆群地址&lt;/th&gt;
+&lt;th align=&quot;center&quot;&gt;飞机群地址&lt;/th&gt;
+&lt;/t</summary>
       
     
     
@@ -96,15 +102,22 @@
     <link href="http://example.com/2024/07/01/%E5%8D%A1%E5%95%86%E6%8E%A8%E8%8D%90/"/>
     <id>http://example.com/2024/07/01/%E5%8D%A1%E5%95%86%E6%8E%A8%E8%8D%90/</id>
     <published>2024-07-01T10:51:10.000Z</published>
-    <updated>2024-09-09T17:22:10.871Z</updated>
+    <updated>2024-09-10T06:53:10.753Z</updated>
     
-    <content type="html"><![CDATA[<p>土豆：@zmzzmm<br>土豆：<font color=red>@mei521521</font><br>土豆：@xu147<br>土豆：@kingdehua</p>]]></content>
+    <content type="html"><![CDATA[<table><thead><tr><th align="center">日期</th><th align="left">联系方式</th><th align="center">号段</th><th align="center">对接方式</th></tr></thead><tbody><tr><td align="center">2022-03-01</td><td align="left">土豆:@zmzzmm</td><td align="center"></td><td align="center"></td></tr><tr><td align="center">2022-03-01</td><td align="left">土豆:@mei521521</td><td align="center"></td><td align="center"></td></tr><tr><td align="center">2022-03-01</td><td align="left">土豆:@xu147</td><td align="center"></td><td align="center"></td></tr><tr><td align="center">2022-03-01</td><td align="left">土豆:@kingdehua</td><td align="center"></td><td align="center"></td></tr></tbody></table>]]></content>
     
     
       
       
-    <summary type="html">&lt;p&gt;土豆：@zmzzmm&lt;br&gt;土豆：&lt;font color=red&gt;@mei521521&lt;/font&gt;&lt;br&gt;土豆：@xu147&lt;br&gt;土豆：@kingdehua&lt;/p&gt;
-</summary>
+    <summary type="html">&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align=&quot;center&quot;&gt;日期&lt;/th&gt;
+&lt;th align=&quot;left&quot;&gt;联系方式&lt;/th&gt;
+&lt;th align=&quot;center&quot;&gt;号段&lt;/th&gt;
+&lt;th align=&quot;center&quot;&gt;对接方式&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/t</summary>
       
     
     
